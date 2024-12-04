@@ -1,0 +1,4 @@
+/target
+/dist
+/client/*json
+/.dart_tool

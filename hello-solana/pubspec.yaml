@@ -1,0 +1,7 @@
+name: 'Solana'
+
+environment:
+  sdk: '^3.5.0'
+
+dependencies:
+  solana: ^0.31.0 
